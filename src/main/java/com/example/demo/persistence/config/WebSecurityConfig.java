@@ -1,4 +1,4 @@
-package com.example.demo.config;
+package com.example.demo.persistence.config;
 
 import com.example.demo.security.JwtAuthenticationFilter;
 import lombok.extern.slf4j.Slf4j;
